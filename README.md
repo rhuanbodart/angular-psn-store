@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Preview-Angular-Psn-Store](https://github.com/rhuanbodart/angular-psn-store/blob/main/assets/Readme.jpg)
+![Preview-Angular-Psn-Store](https://github.com/rhuanbodart/angular-psn-store/blob/main/src/assets/Readme.jpg?raw=true)
 
 # Project: Playstation Store Model
 This project is an Angular application that I use to perform the playstation store model
